@@ -3,5 +3,6 @@ public class Good {
         System.out.println("Good");
         System.out.println("Bad");
         System.out.println("new branch, javatest!");
+	System.out.println("way yo!");
     }
 }
